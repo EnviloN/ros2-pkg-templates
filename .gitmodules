@@ -1,0 +1,6 @@
+[submodule "ros2-cpp-pkg-template"]
+	path = ros2-cpp-pkg-template
+	url = git@github.com:EnviloN/ros2-cpp-pkg-template.git
+[submodule "ros2-py-pkg-template"]
+	path = ros2-py-pkg-template
+	url = git@github.com:EnviloN/ros2-py-pkg-template.git
