@@ -4,3 +4,9 @@
 [submodule "ros2-py-pkg-template"]
 	path = ros2-py-pkg-template
 	url = git@github.com:EnviloN/ros2-py-pkg-template.git
+[submodule "ros2-interfaces-pkg-template"]
+	path = ros2-interfaces-pkg-template
+	url = git@github.com:EnviloN/ros2-interfaces-pkg-template.git
+[submodule "ros2-bringup-pkg-template"]
+	path = ros2-bringup-pkg-template
+	url = git@github.com:EnviloN/ros2-bringup-pkg-template.git
